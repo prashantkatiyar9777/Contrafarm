@@ -43,7 +43,13 @@ Now, the use of Block Chain is that all the data stored and code is in form of s
 1. **Team Name:** COMET LABS
 2. **Team Members:**
 <table>
-	<tr>
+<tr>
+   <td align="center">
+            <a href="https://github.com/prashantkatiyar9777">
+              <img src="https://avatars.githubusercontent.com/u/55805447?v=4" width="100px" alt=""/><br />
+              <sub><b>Prashant Milan Katiyar</b></sub>
+            </a><br/>
+   </td> 
     <td align="center">
             <a href="https://github.com/cyber-venom003">
               <img src="https://avatars.githubusercontent.com/u/58390399?v=4" width="100px" alt=""/><br />
@@ -57,21 +63,9 @@ Now, the use of Block Chain is that all the data stored and code is in form of s
             </a><br/>
    </td> 
    <td align="center">
-            <a href="https://github.com/prashantkatiyar9777">
-              <img src="https://avatars.githubusercontent.com/u/55805447?v=4" width="100px" alt=""/><br />
-              <sub><b>Prashant Milan Katiyar</b></sub>
-            </a><br/>
-   </td> 
-   <td align="center">
             <a href="https://github.com/koolgax99">
               <img src="https://avatars.githubusercontent.com/u/55532999?v=4" width="100px" alt=""/><br />
               <sub><b>Nihar Sanda</b></sub>
-            </a><br/>
-   </td> 
-   <td align="center">
-            <a href="https://github.com/achalesh27022003">
-              <img src="https://avatars.githubusercontent.com/u/57138750?v=4" width="100px" alt=""/><br />
-              <sub><b>Achalesh Lakhotiya</b></sub>
             </a><br/>
    </td> 
 </table>
